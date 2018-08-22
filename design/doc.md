@@ -26,3 +26,4 @@
 
 ## DevOps best practice
 ![fig.2](./DevOps-best-practice.jpg)
+
